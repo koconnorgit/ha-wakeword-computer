@@ -3,7 +3,7 @@
   "wake_word": "Computer",
   "author": "Kevin OConnor",
   "website": "https://github.com/koconnorgit",
-  "model": "computer.tflite",
+  "model": "https://github.com/koconnorgit/ha-wakeword-computer/raw/refs/heads/main/computer.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
