@@ -3,14 +3,14 @@
   "wake_word": "Computer",
   "author": "Kevin OConnor",
   "website": "https://github.com/koconnorgit",
-  "model": "https://github.com/koconnorgit/ha-wakeword-computer/raw/refs/heads/main/computer.tflite",
+  "model": "computer.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.85,
+    "probability_cutoff": 0.97,
     "feature_step_size": 10,
     "sliding_window_size": 5,
-    "tensor_arena_size": 37000,
+    "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
