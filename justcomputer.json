@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "computer",
+    "wake_word": "justcomputer",
     "author": "Kevin OConnor",
     "website": "https://www.home-assistant.io",
     "model": "computer.tflite",
